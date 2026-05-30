@@ -1,50 +1,42 @@
-name: Deploy MkDocs site to GitHub Pages
+site_name: Apunts de Stop Motion
+site_description: Recursos de classe sobre animació stop motion
+site_author: Ariadna Landete
+site_url: https://arialandete.github.io/Apunts-Stop-Motion/
 
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+theme:
+  name: material
+  language: ca
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: amber
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+extra_css:
+  - css/estil.css
 
-concurrency:
-  group: pages
-  cancel-in-progress: false
+nav:
+  - Inici: index.md
+  - Apunts:
+      - Què és l'stop motion?: apunts.md
+      - Fases del procés: fases.md
+  - Activitat: activitat.md
+  - Avaluació: avaluacio.md
+  - Publicació: publicacio.md
 
-jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: pip install mkdocs mkdocs-material
-
-      - name: Build site
-        run: mkdocs build --strict
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
