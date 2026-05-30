@@ -1,7 +1,10 @@
 site_name: Apunts de Stop Motion
 site_description: Recursos de classe sobre animació stop motion
-site_author: Ariadna Landete
-site_url: https://arialandete.github.io/Apunts-Stop-Motion/
+site_author: Esteve Mestre
+site_url: https://pestevemestre.github.io/apunts-stop-motion/
+
+repo_name: apunts-stop-motion
+repo_url: https://github.com/pestevemestre/apunts-stop-motion
 
 theme:
   name: material
@@ -40,3 +43,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

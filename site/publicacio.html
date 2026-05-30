@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Publicació</title>
+<link rel="stylesheet" href="css/estil.css">
+</head>
+<body>
+<nav><a href="index.html">Inici</a><a href="apunts.html">Apunts</a><a href="fases.html">Fases</a><a href="activitat.html">Activitat</a><a href="avaluacio.html">Avaluació</a><a href="publicacio.html">Publicació</a></nav>
+<main>
+<h1>Publicació del web</h1>
+<p>Aquest web està preparat amb <strong>MkDocs</strong>.</p>
+<h2>Estructura del projecte</h2>
+<pre><code class="language-text">mkdocs_stop_motion/
+├── mkdocs.yml
+├── docs/
+│   ├── index.md
+│   ├── apunts.md
+│   ├── fases.md
+│   ├── activitat.md
+│   ├── avaluacio.md
+│   ├── publicacio.md
+│   ├── css/
+│   │   └── estil.css
+│   └── imatges/
+│       └── ...
+└── .github/
+    └── workflows/
+        └── deploy.yml
+</code></pre>
+<h2>Prova en local</h2>
+<p>Per provar-lo en local:</p>
+<pre><code class="language-bash">pip install mkdocs mkdocs-material
+mkdocs serve
+</code></pre>
+<p>Després cal obrir el navegador en:</p>
+<pre><code class="language-text">http://127.0.0.1:8000
+</code></pre>
+<h2>Generar el web</h2>
+<pre><code class="language-bash">mkdocs build
+</code></pre>
+<p>El web generat apareixerà dins de la carpeta:</p>
+<pre><code class="language-text">site/
+</code></pre>
+<h2>Publicació en GitHub</h2>
+<p>La carpeta ja inclou un workflow de GitHub Actions per publicar automàticament el web amb GitHub Pages.</p>
+<p>Després de pujar el projecte a GitHub, cal activar Pages des de:</p>
+<pre><code class="language-text">Settings &gt; Pages &gt; Build and deployment &gt; GitHub Actions
+</code></pre>
+<h2>Publicació en Aules</h2>
+<p>Per publicar-lo en Aules, es pot pujar el contingut de la carpeta <code>site/</code> com a recurs web o comprimir-la en ZIP i descomprimir-la dins del curs, deixant <code>index.html</code> com a pàgina principal.</p>
+
+</main>
+<div class="footer">Apunts de Stop Motion - material de classe</div>
+</body>
+</html>
