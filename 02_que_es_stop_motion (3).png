@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Activitat</title>
+<link rel="stylesheet" href="css/estil.css">
+</head>
+<body>
+<nav><a href="index.html">Inici</a><a href="apunts.html">Apunts</a><a href="fases.html">Fases</a><a href="activitat.html">Activitat</a><a href="avaluacio.html">Avaluació</a><a href="publicacio.html">Publicació</a></nav>
+<main>
+<h1>Activitat de classe</h1>
+<h2>Proposta</h2>
+<p>En grups de <strong>3 persones</strong>, haureu de crear una animació breu utilitzant la tècnica de <strong>stop motion</strong>.</p>
+<p><img src="imatges/10_realitzacio_activitat.png" alt="Diapositiva amb els passos per realitzar l'activitat de stop motion" /></p>
+<h2>Passos de treball</h2>
+<ol>
+<li>Pensar la idea.</li>
+<li>Escriure el guió.</li>
+<li>Fer l'storyboard.</li>
+<li>Construir l'escenografia i els personatges.</li>
+<li>Realitzar les fotografies amb mòbil, trípode i llum adequada.</li>
+<li>Fer el muntatge per ordinador.</li>
+<li>Afegir sons, música o text si és necessari.</li>
+<li>Mostrar el resultat final als companys.</li>
+</ol>
+<h2>Materials possibles</h2>
+<p>Podeu utilitzar:</p>
+<ul>
+<li>plastilina;</li>
+<li>cartolines;</li>
+<li>caixes de sabates;</li>
+<li>revistes;</li>
+<li>papers de colors;</li>
+<li>joguets;</li>
+<li>peces de construcció;</li>
+<li>objectes quotidians;</li>
+<li>mòbil o càmera;</li>
+<li>trípode o suport estable.</li>
+</ul>
+<h2>Storyboard</h2>
+<p>L'<strong>storyboard</strong> serveix per planificar visualment la història abans de començar a fer fotografies.</p>
+<table>
+<thead>
+<tr>
+  <th style="text-align:right">Vinyeta</th>
+  <th>Què passa?</th>
+  <th>Pla o enquadre</th>
+  <th>So o text</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:right">1</td>
+  <td>Presentació del personatge</td>
+  <td>Pla general</td>
+  <td>Música inicial</td>
+</tr>
+<tr>
+  <td style="text-align:right">2</td>
+  <td>Apareix el problema</td>
+  <td>Pla mitjà</td>
+  <td>Efecte de sorpresa</td>
+</tr>
+<tr>
+  <td style="text-align:right">3</td>
+  <td>El personatge actua</td>
+  <td>Pla detall</td>
+  <td>So d'acció</td>
+</tr>
+<tr>
+  <td style="text-align:right">4</td>
+  <td>Resolució final</td>
+  <td>Pla general</td>
+  <td>Crèdits finals</td>
+</tr>
+</tbody>
+</table>
+<h2>Recomanacions</h2>
+<p>&lt;div class=&quot;admonition tip&quot;&gt;&lt;strong&gt;Consell&lt;/strong&gt;
+Feu moviments molt xicotets entre una fotografia i la següent. Si els canvis són massa grans, l'animació quedarà tallada.
+&lt;/div&gt;
+Abans d'entregar, reviseu:</p>
+<ul>
+<li>que el vídeo tinga inici, desenvolupament i final;</li>
+<li>que la càmera no es moga;</li>
+<li>que la llum siga estable;</li>
+<li>que els arxius estiguen ordenats;</li>
+<li>que el muntatge final es veja correctament.</li>
+</ul>
+<h2>Exemples coneguts</h2>
+<p>Algunes obres fetes amb stop motion són:</p>
+<table>
+<thead>
+<tr>
+  <th>Obra</th>
+  <th style="text-align:right">Any</th>
+  <th>Autor o estudi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><em>Pesadilla antes de Navidad</em></td>
+  <td style="text-align:right">1993</td>
+  <td>Henry Selick / Tim Burton</td>
+</tr>
+<tr>
+  <td><em>La novia cadáver</em></td>
+  <td style="text-align:right">2005</td>
+  <td>Tim Burton i Mike Johnson</td>
+</tr>
+<tr>
+  <td><em>Coraline</em></td>
+  <td style="text-align:right">2009</td>
+  <td>Henry Selick</td>
+</tr>
+<tr>
+  <td><em>Mary and Max</em></td>
+  <td style="text-align:right">2009</td>
+  <td>Adam Elliot</td>
+</tr>
+<tr>
+  <td><em>ParaNorman</em></td>
+  <td style="text-align:right">2012</td>
+  <td>Chris Butler i Sam Fell</td>
+</tr>
+<tr>
+  <td><em>Pinotxo</em></td>
+  <td style="text-align:right">2022</td>
+  <td>Guillermo del Toro i Mark Gustafson</td>
+</tr>
+<tr>
+  <td><em>La oveja Shaun</em></td>
+  <td style="text-align:right">2007</td>
+  <td>Aardman Animations</td>
+</tr>
+</tbody>
+</table>
+<p><img src="imatges/08_pellicules_stop_motion.png" alt="Diapositiva amb exemples de pel·lícules fetes amb stop motion" /></p>
+
+</main>
+<div class="footer">Apunts de Stop Motion - material de classe</div>
+</body>
+</html>

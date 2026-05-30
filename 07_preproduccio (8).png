@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fases del procés</title>
+<link rel="stylesheet" href="css/estil.css">
+</head>
+<body>
+<nav><a href="index.html">Inici</a><a href="apunts.html">Apunts</a><a href="fases.html">Fases</a><a href="activitat.html">Activitat</a><a href="avaluacio.html">Avaluació</a><a href="publicacio.html">Publicació</a></nav>
+<main>
+<h1>Fases del procés</h1>
+<p>Un projecte de stop motion es pot organitzar en tres grans fases:</p>
+<ol>
+<li><strong>Guió</strong></li>
+<li><strong>Rodatge</strong></li>
+<li><strong>Muntatge</strong></li>
+</ol>
+<p><img src="imatges/09_fases_proces.png" alt="Diapositiva amb les fases del procés de stop motion" /></p>
+<h2>1. Guió</h2>
+<p>En aquesta fase es concreta la idea principal i es decideix què passarà en la història.</p>
+<p>Cal pensar:</p>
+<ul>
+<li>quin és el personatge principal;</li>
+<li>on passa l'acció;</li>
+<li>quin problema apareix;</li>
+<li>com acaba la història;</li>
+<li>quins materials necessitem.</li>
+</ul>
+<h2>2. Rodatge</h2>
+<p>En el rodatge es fan totes les fotografies necessàries.</p>
+<p>Perquè el resultat siga correcte, cal:</p>
+<ul>
+<li>col·locar bé la càmera;</li>
+<li>mantindre la mateixa llum;</li>
+<li>moure els personatges molt poc entre fotografia i fotografia;</li>
+<li>evitar que apareguen mans o objectes no desitjats;</li>
+<li>fer més fotos de les que pensem que necessitarem.</li>
+</ul>
+<h2>3. Muntatge</h2>
+<p>En el muntatge s'ordenen les fotografies i es converteixen en vídeo.</p>
+<p>També es poden afegir:</p>
+<ul>
+<li>música;</li>
+<li>efectes de so;</li>
+<li>títols;</li>
+<li>crèdits;</li>
+<li>text explicatiu;</li>
+<li>transicions senzilles.</li>
+</ul>
+<h2>Preproducció</h2>
+<p>Abans de començar el rodatge, cada grup hauria de preparar una <strong>storyline</strong> i un xicotet <strong>storyboard</strong>.</p>
+<p><img src="imatges/07_preproduccio.png" alt="Diapositiva sobre la preproducció d'un projecte de stop motion" /></p>
+<h3>Exemple de storyline</h3>
+<blockquote>
+<p>Un personatge de plastilina troba una caixa misteriosa. Quan l'obri, apareix un objecte màgic que transforma l'escenari. Finalment, el personatge decideix utilitzar-lo per ajudar un altre company.</p>
+</blockquote>
+
+</main>
+<div class="footer">Apunts de Stop Motion - material de classe</div>
+</body>
+</html>

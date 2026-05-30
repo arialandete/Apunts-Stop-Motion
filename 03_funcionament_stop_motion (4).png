@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Què és l&#x27;stop motion?</title>
+<link rel="stylesheet" href="css/estil.css">
+</head>
+<body>
+<nav><a href="index.html">Inici</a><a href="apunts.html">Apunts</a><a href="fases.html">Fases</a><a href="activitat.html">Activitat</a><a href="avaluacio.html">Avaluació</a><a href="publicacio.html">Publicació</a></nav>
+<main>
+<h1>Què és l'stop motion?</h1>
+<p>L'<strong>stop motion</strong> és una tècnica d'animació que consisteix a aparentar el moviment d'objectes estàtics mitjançant una sèrie d'imatges fixes successives.</p>
+<p><img src="imatges/02_que_es_stop_motion.png" alt="Diapositiva original amb la definició de stop motion" /></p>
+<p>En cada fotografia que fem ha d'haver una xicoteta modificació. Com més menut siga el canvi entre una fotografia i la següent, més fluida i realista serà l'animació.</p>
+<blockquote>
+<p>Una animació de stop motion no grava el moviment directament: el construeix fotografia a fotografia.</p>
+</blockquote>
+<h2>Objectes que podem animar</h2>
+<p>Podem utilitzar molts tipus de materials:</p>
+<ul>
+<li>joguets;</li>
+<li>blocs de construcció;</li>
+<li>ninots articulats;</li>
+<li>personatges de plastilina;</li>
+<li>objectes quotidians;</li>
+<li>figures de paper o cartolina.</li>
+</ul>
+<p><img src="imatges/03_funcionament_stop_motion.png" alt="Exemple visual sobre el funcionament de la tècnica stop motion" /></p>
+<h2>Variants principals</h2>
+<h3>Claymation</h3>
+<p>La <strong>claymation</strong> és una animació realitzada amb plastilina o altres materials mal·leables.</p>
+<p>Aquest tipus de material permet modificar fàcilment la forma dels personatges, canviar expressions i crear moviments molt expressius.</p>
+<h3>Pixilació</h3>
+<p>La <strong>pixilació</strong> consisteix a fotografiar persones mantenint una postura fixa en cada fotograma, com si foren titelles humanes.</p>
+<p><img src="imatges/04_variants_stop_motion.png" alt="Diapositiva amb variants de stop motion com claymation i pixilació" /></p>
+<h2>Nombre d'imatges</h2>
+<p>Per aconseguir moviment, necessitem moltes fotografies. En cinema es treballa sovint amb <strong>24 imatges per segon</strong>, però en una activitat escolar podem treballar amb menys.</p>
+<table>
+<thead>
+<tr>
+  <th style="text-align:right">Fotografies per segon</th>
+  <th>Resultat aproximat</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:right">6 fps</td>
+  <td>Moviment molt tallat</td>
+</tr>
+<tr>
+  <td style="text-align:right">12 fps</td>
+  <td>Moviment acceptable per a classe</td>
+</tr>
+<tr>
+  <td style="text-align:right">24 fps</td>
+  <td>Moviment més realista</td>
+</tr>
+</tbody>
+</table>
+<p><img src="imatges/05_nombre_imatges.png" alt="Diapositiva sobre el nombre d'imatges recomanat en stop motion" /></p>
+<h2>Aspectes importants</h2>
+<p>Abans de començar cal controlar tres coses:</p>
+<ol>
+<li><strong>Raccord</strong>: continuïtat entre les fotografies.</li>
+<li><strong>Il·luminació</strong>: evitar canvis bruscos de llum.</li>
+<li><strong>Enquadre</strong>: mantindre la càmera sempre estable.</li>
+</ol>
+<p><img src="imatges/06_raccord_llum_enquadre.png" alt="Diapositiva sobre raccord, il·luminació i enquadre" /></p>
+<p>&lt;div class=&quot;admonition warning&quot;&gt;&lt;strong&gt;Compte amb la càmera&lt;/strong&gt;
+Si la càmera es mou sense voler, el vídeo final pot quedar confús i poc cuidat. Per això és molt recomanable utilitzar un trípode o un suport estable.
+&lt;/div&gt;</p>
+
+</main>
+<div class="footer">Apunts de Stop Motion - material de classe</div>
+</body>
+</html>

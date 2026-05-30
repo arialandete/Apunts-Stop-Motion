@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Avaluació</title>
+<link rel="stylesheet" href="css/estil.css">
+</head>
+<body>
+<nav><a href="index.html">Inici</a><a href="apunts.html">Apunts</a><a href="fases.html">Fases</a><a href="activitat.html">Activitat</a><a href="avaluacio.html">Avaluació</a><a href="publicacio.html">Publicació</a></nav>
+<main>
+<h1>Avaluació</h1>
+<p>La qualificació del projecte es farà a partir de la següent rúbrica.</p>
+<table>
+<thead>
+<tr>
+  <th>Criteri</th>
+  <th>Descripció</th>
+  <th style="text-align:right">Puntuació</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Idea i guió</td>
+  <td>La història és clara i està ben plantejada</td>
+  <td style="text-align:right">2 punts</td>
+</tr>
+<tr>
+  <td>Escenografia i personatges</td>
+  <td>Els elements visuals estan treballats i són coherents</td>
+  <td style="text-align:right">2 punts</td>
+</tr>
+<tr>
+  <td>Qualitat de l'animació</td>
+  <td>El moviment és fluid i comprensible</td>
+  <td style="text-align:right">2 punts</td>
+</tr>
+<tr>
+  <td>Muntatge final</td>
+  <td>El vídeo està ben ordenat i editat</td>
+  <td style="text-align:right">2 punts</td>
+</tr>
+<tr>
+  <td>Treball en grup i presentació</td>
+  <td>El grup s'organitza i presenta bé el resultat</td>
+  <td style="text-align:right">2 punts</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total: 10 punts</strong></p>
+<h2>Lliurament</h2>
+<p>Cada grup haurà d'entregar:</p>
+<ul>
+<li>el vídeo final;</li>
+<li>el guió o storyline;</li>
+<li>l'storyboard;</li>
+<li>una breu explicació del procés;</li>
+<li>els noms dels membres del grup.</li>
+</ul>
+<h2>Autoavaluació</h2>
+<p>Després de presentar el vídeo, cada grup haurà de respondre aquestes preguntes:</p>
+<ol>
+<li>Quina era la idea principal del nostre stop motion?</li>
+<li>Quina part del procés ha sigut més fàcil?</li>
+<li>Quina part ens ha costat més?</li>
+<li>Què milloraríem si tornàrem a fer el projecte?</li>
+<li>Hem treballat de manera equilibrada dins del grup?</li>
+</ol>
+<h2>Errors habituals</h2>
+<p>Alguns errors que convé evitar són:</p>
+<ul>
+<li>fer massa poques fotografies;</li>
+<li>moure massa els personatges entre imatges;</li>
+<li>canviar la llum durant el rodatge;</li>
+<li>moure la càmera accidentalment;</li>
+<li>començar a gravar sense guió;</li>
+<li>no repartir bé les tasques dins del grup.</li>
+</ul>
+
+</main>
+<div class="footer">Apunts de Stop Motion - material de classe</div>
+</body>
+</html>
