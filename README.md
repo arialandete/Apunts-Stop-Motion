@@ -34,3 +34,8 @@ mkdocs serve
 El projecte inclou un workflow en `.github/workflows/deploy.yml`. En GitHub cal activar:
 
 `Settings > Pages > Build and deployment > GitHub Actions`
+
+
+## Millora d'imatges
+
+S'ha ajustat la mida de les imatges perquè mantinguen millor la proporció tant al web com a l'exportació a PDF.

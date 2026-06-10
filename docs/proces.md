@@ -6,7 +6,7 @@ Un projecte de stop motion es pot organitzar en tres grans fases:
 2. **Rodatge**
 3. **Muntatge**
 
-![Fases del procés de stop motion](imatges/09_fases_proces.png)
+![Fases del procés de stop motion](imatges/09_fases_proces.png){ width="72%" }
 
 ## Raccord, llum i enquadre
 
@@ -17,7 +17,7 @@ Perquè l'animació quede bé, cal controlar la continuïtat visual.
     - **Il·luminació:** la llum ha de ser estable.
     - **Enquadre:** la càmera no s'ha de moure.
 
-![Raccord, il·luminació i enquadre](imatges/06_raccord_llum_enquadre.png)
+![Raccord, il·luminació i enquadre](imatges/06_raccord_llum_enquadre.png){ width="78%" }
 
 ## Exemple de configuració del projecte
 

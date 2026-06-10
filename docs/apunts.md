@@ -2,7 +2,7 @@
 
 L'**stop motion** és una tècnica d'animació que consisteix a aparentar el moviment d'objectes estàtics mitjançant una sèrie d'imatges fixes successives.
 
-![Diapositiva amb la definició de stop motion](imatges/02_definicio_stop_motion.png)
+![Diapositiva amb la definició de stop motion](imatges/02_definicio_stop_motion.png){ width="78%" }
 
 !!! note "Idea principal"
     La càmera no grava el moviment directament. El moviment es crea unint moltes fotografies on l'objecte canvia molt poc de posició.
@@ -20,7 +20,7 @@ Podem utilitzar materials molt senzills:
 - paper o cartolina;
 - objectes quotidians.
 
-![Fotogrames successius per crear moviment](imatges/03_fotogrames_stop_motion.png)
+![Fotogrames successius per crear moviment](imatges/03_fotogrames_stop_motion.png){ width="78%" }
 
 ## Variants
 
@@ -32,7 +32,7 @@ La **claymation** és una animació feta amb plastilina o altres materials mal·
 
 La **pixilació** consisteix a fotografiar persones mantenint una postura fixa en cada fotograma, com si foren titelles humanes.
 
-![Variants de stop motion: claymation i pixilació](imatges/04_variants_stop_motion.png)
+![Variants de stop motion: claymation i pixilació](imatges/04_variants_stop_motion.png){ width="78%" }
 
 ??? warning "Compte amb els canvis bruscos"
     Si l'objecte es mou massa entre una fotografia i la següent, l'animació quedarà tallada i poc natural.
@@ -45,4 +45,4 @@ La **pixilació** consisteix a fotografiar persones mantenint una postura fixa e
 | 12 fps | Moviment acceptable per a una activitat escolar |
 | 24 fps | Moviment més realista |
 
-![Nombre d'imatges recomanat](imatges/05_nombre_imatges.png)
+![Nombre d'imatges recomanat](imatges/05_nombre_imatges.png){ width="70%" }

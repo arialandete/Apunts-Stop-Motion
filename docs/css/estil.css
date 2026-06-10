@@ -27,3 +27,31 @@
 .md-typeset table:not([class]) th {
   background-color: #fff3e0;
 }
+
+
+
+/* Correcció d'imatges perquè no queden allargades */
+.md-typeset img,
+.md-content img,
+img {
+  display: block;
+  margin: 1rem auto;
+  width: auto !important;
+  height: auto !important;
+  max-width: 100%;
+  max-height: 70vh;
+  object-fit: contain;
+  image-rendering: auto;
+}
+
+.md-typeset figure {
+  text-align: center;
+}
+
+.md-typeset img + em {
+  display: block;
+  text-align: center;
+  color: #666;
+  font-size: 0.95rem;
+}
+

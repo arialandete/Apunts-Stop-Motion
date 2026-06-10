@@ -5,7 +5,7 @@ Aquest lloc web recull uns apunts bàsics sobre la tècnica d'animació **stop m
 [Baixa el PDF dels apunts](pdf/apunts_stop_motion_material.pdf){ .md-button .md-button--primary }
 [Consulta l'activitat](activitat.md){ .md-button }
 
-![Portada del material de Stop Motion](imatges/01_portada_stop_motion.png)
+![Portada del material de Stop Motion](imatges/01_portada_stop_motion.png){ width="80%" }
 
 !!! info "Què s'ha configurat en aquesta unitat"
     Aquest web utilitza el tema **Material**, búsqueda interna, panells de navegació, canvi entre tema clar i fosc, admonitions, codi amb numeració, diagrames Mermaid i accés a PDF.

@@ -2,7 +2,7 @@
 
 En grups de **3 persones**, haureu de crear una animació breu utilitzant la tècnica de **stop motion**.
 
-![Passos per realitzar l'activitat](imatges/10_realitzacio_activitat.png)
+![Passos per realitzar l'activitat](imatges/10_realitzacio_activitat.png){ width="78%" }
 
 ## Passos de treball
 
