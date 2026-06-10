@@ -1,6 +1,6 @@
 # Avaluació
 
-La qualificació del projecte es farà a partir de la següent rúbrica.
+La qualificació del projecte es farà amb la rúbrica següent.
 
 | Criteri | Descripció | Puntuació |
 |---|---|---:|
@@ -12,33 +12,12 @@ La qualificació del projecte es farà a partir de la següent rúbrica.
 
 **Total: 10 punts**
 
-## Lliurament
+!!! warning "Errors habituals"
+    - Fer massa poques fotografies.
+    - Moure massa els personatges entre imatges.
+    - Canviar la llum durant el rodatge.
+    - Moure la càmera accidentalment.
+    - Començar a gravar sense guió.
 
-Cada grup haurà d'entregar:
-
-- el vídeo final;
-- el guió o storyline;
-- l'storyboard;
-- una breu explicació del procés;
-- els noms dels membres del grup.
-
-## Autoavaluació
-
-Després de presentar el vídeo, cada grup haurà de respondre aquestes preguntes:
-
-1. Quina era la idea principal del nostre stop motion?
-2. Quina part del procés ha sigut més fàcil?
-3. Quina part ens ha costat més?
-4. Què milloraríem si tornàrem a fer el projecte?
-5. Hem treballat de manera equilibrada dins del grup?
-
-## Errors habituals
-
-Alguns errors que convé evitar són:
-
-- fer massa poques fotografies;
-- moure massa els personatges entre imatges;
-- canviar la llum durant el rodatge;
-- moure la càmera accidentalment;
-- començar a gravar sense guió;
-- no repartir bé les tasques dins del grup.
+???+ info "Autoavaluació"
+    Després de presentar el vídeo, cada grup haurà d'explicar què ha funcionat millor, què ha costat més i què milloraria si repetira el projecte.

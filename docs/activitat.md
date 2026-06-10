@@ -1,15 +1,13 @@
 # Activitat de classe
 
-## Proposta
-
 En grups de **3 persones**, haureu de crear una animació breu utilitzant la tècnica de **stop motion**.
 
-![Diapositiva amb els passos per realitzar l'activitat de stop motion](imatges/10_realitzacio_activitat.png)
+![Passos per realitzar l'activitat](imatges/10_realitzacio_activitat.png)
 
 ## Passos de treball
 
 1. Pensar la idea.
-2. Escriure el guió.
+2. Escriure el guió o storyline.
 3. Fer l'storyboard.
 4. Construir l'escenografia i els personatges.
 5. Realitzar les fotografies amb mòbil, trípode i llum adequada.
@@ -17,24 +15,13 @@ En grups de **3 persones**, haureu de crear una animació breu utilitzant la tè
 7. Afegir sons, música o text si és necessari.
 8. Mostrar el resultat final als companys.
 
-## Materials possibles
+!!! tip "Consell de rodatge"
+    Feu moviments molt xicotets entre una fotografia i la següent. Si el canvi és massa gran, el moviment no semblarà natural.
 
-Podeu utilitzar:
-
-- plastilina;
-- cartolines;
-- caixes de sabates;
-- revistes;
-- papers de colors;
-- joguets;
-- peces de construcció;
-- objectes quotidians;
-- mòbil o càmera;
-- trípode o suport estable.
+??? question "Quantes fotos necessitem?"
+    Si voleu fer 10 segons de vídeo a 12 fps, necessitareu aproximadament 120 fotografies.
 
 ## Storyboard
-
-L'**storyboard** serveix per planificar visualment la història abans de començar a fer fotografies.
 
 | Vinyeta | Què passa? | Pla o enquadre | So o text |
 |---:|---|---|---|
@@ -43,31 +30,12 @@ L'**storyboard** serveix per planificar visualment la història abans de començ
 | 3 | El personatge actua | Pla detall | So d'acció |
 | 4 | Resolució final | Pla general | Crèdits finals |
 
-## Recomanacions
+## Materials possibles
 
-!!! tip "Consell"
-    Feu moviments molt xicotets entre una fotografia i la següent. Si els canvis són massa grans, l'animació quedarà tallada.
-
-Abans d'entregar, reviseu:
-
-- que el vídeo tinga inici, desenvolupament i final;
-- que la càmera no es moga;
-- que la llum siga estable;
-- que els arxius estiguen ordenats;
-- que el muntatge final es veja correctament.
-
-## Exemples coneguts
-
-Algunes obres fetes amb stop motion són:
-
-| Obra | Any | Autor o estudi |
-|---|---:|---|
-| *Pesadilla antes de Navidad* | 1993 | Henry Selick / Tim Burton |
-| *La novia cadáver* | 2005 | Tim Burton i Mike Johnson |
-| *Coraline* | 2009 | Henry Selick |
-| *Mary and Max* | 2009 | Adam Elliot |
-| *ParaNorman* | 2012 | Chris Butler i Sam Fell |
-| *Pinotxo* | 2022 | Guillermo del Toro i Mark Gustafson |
-| *La oveja Shaun* | 2007 | Aardman Animations |
-
-![Diapositiva amb exemples de pel·lícules fetes amb stop motion](imatges/08_pellicules_stop_motion.png)
+- Plastilina.
+- Cartolines.
+- Caixes de sabates.
+- Joguets.
+- Peces de construcció.
+- Telèfon mòbil.
+- Trípode o suport estable.

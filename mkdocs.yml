@@ -1,24 +1,83 @@
 site_name: Apunts de Stop Motion
-site_description: Recursos de classe sobre animació stop motion
-site_author: Esteve Mestre
-site_url: https://pestevemestre.github.io/apunts-stop-motion/
+site_description: Web d'apunts sobre stop motion amb MkDocs Material
+site_author: Ariadna Landete
+site_url: https://arialandete.github.io/Apunts-Stop-Motion/
+repo_url: https://github.com/arialandete/Apunts-Stop-Motion
+repo_name: arialandete/Apunts-Stop-Motion
+edit_uri: edit/main/docs/
 
-repo_name: apunts-stop-motion
-repo_url: https://github.com/pestevemestre/apunts-stop-motion
+copyright: Material didàctic per a ús educatiu
 
 theme:
   name: material
   language: ca
+  icon:
+    logo: material/movie-open-play
+    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.path
     - navigation.top
-    - toc.integrate
+    - navigation.footer
+    - search.suggest
+    - search.highlight
     - content.code.copy
+    - content.code.select
+    - content.tabs.link
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: deep orange
       accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Canvia a mode fosc
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Canvia a mode clar
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search:
+      lang:
+        - ca
+        - es
+  - page-to-pdf
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      linenums: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
   - css/estil.css
@@ -27,22 +86,8 @@ nav:
   - Inici: index.md
   - Apunts:
       - Què és l'stop motion?: apunts.md
-      - Fases del procés: fases.md
+      - Procés de treball: proces.md
+      - Diagrama del projecte: diagrama.md
   - Activitat: activitat.md
   - Avaluació: avaluacio.md
-  - Publicació: publicacio.md
-
-markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - tables
-  - toc:
-      permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - Recursos i PDF: recursos.md

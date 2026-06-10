@@ -1,25 +1,23 @@
 # Apunts de Stop Motion
 
-Benvinguts i benvingudes al web d'apunts sobre **stop motion**.
+Aquest lloc web recull uns apunts bàsics sobre la tècnica d'animació **stop motion**, preparats amb **MkDocs Material**.
 
-Aquest lloc està pensat com a material de suport per a una activitat de creació audiovisual a classe. A partir d'ací veurem què és aquesta tècnica, com es prepara una animació senzilla i quins passos ha de seguir l'alumnat per crear el seu propi vídeo.
+[Baixa el PDF dels apunts](pdf/apunts_stop_motion_material.pdf){ .md-button .md-button--primary }
+[Consulta l'activitat](activitat.md){ .md-button }
 
 ![Portada del material de Stop Motion](imatges/01_portada_stop_motion.png)
 
-## Què trobareu en aquest web?
+!!! info "Què s'ha configurat en aquesta unitat"
+    Aquest web utilitza el tema **Material**, búsqueda interna, panells de navegació, canvi entre tema clar i fosc, admonitions, codi amb numeració, diagrames Mermaid i accés a PDF.
 
-- Una explicació bàsica de la tècnica de **stop motion**.
-- Les variants principals, com la **claymation** i la **pixilació**.
-- Les fases de treball: guió, rodatge i muntatge.
-- Una proposta d'activitat per a l'alumnat.
-- Una rúbrica d'avaluació.
+???+ tip "Com navegar pel web"
+    Pots utilitzar el menú superior, el panell lateral i la caixa de búsqueda per trobar ràpidament els apartats del recurs.
 
-!!! note "Objectiu"
-    L'objectiu és que l'alumnat entenga com es pot crear la sensació de moviment a partir de fotografies fixes i que siga capaç de produir una animació breu en grup.
+## Contingut principal
 
-## Navegació ràpida
-
-1. Ves als [apunts](apunts.md) per entendre la tècnica.
-2. Revisa les [fases del procés](fases.md).
-3. Consulta la [proposta d'activitat](activitat.md).
-4. Mira la [rúbrica d'avaluació](avaluacio.md).
+- [Què és l'stop motion?](apunts.md)
+- [Fases del procés](proces.md)
+- [Diagrama del projecte](diagrama.md)
+- [Activitat per a l'alumnat](activitat.md)
+- [Rúbrica d'avaluació](avaluacio.md)
+- [Recursos i descàrrega del PDF](recursos.md)

@@ -1,40 +1,36 @@
-# Apunts de Stop Motion amb MkDocs
+# Apunts de Stop Motion - MkDocs Material
 
-Aquest projecte conté uns apunts en format web creats amb MkDocs.
+Projecte preparat per a la tasca final de MkDocs Material.
 
-## Contingut
+## Què inclou
 
-- `mkdocs.yml`: arxiu de configuració de MkDocs.
-- `docs/`: fonts del web en Markdown.
-- `docs/imatges/`: imatges utilitzades als apunts.
-- `docs/css/`: estil propi.
-- `.github/workflows/deploy.yml`: configuració per publicar amb GitHub Pages.
-- `site/`: web generada en HTML.
-- `web_aules_site.zip`: ZIP només amb el web generat, preparat per pujar a Aules.
+- Tema `material` configurat en `mkdocs.yml`.
+- Búsqueda interna amb el plugin `search`.
+- Panells i pestanyes de navegació.
+- Canvi entre tema clar i tema fosc.
+- Admonitions normals i plegables.
+- Fragments de codi amb numeració de línies i botó de còpia.
+- Diagrames Mermaid.
+- Plugin `page-to-pdf` i botó de descàrrega del PDF.
+- PDF generat: `docs/pdf/apunts_stop_motion_material.pdf`.
 
-## Per provar en local
+## Enllaços de lliurament
+
+Web publicada:
+https://arialandete.github.io/Apunts-Stop-Motion/
+
+Repositori amb les fonts i `mkdocs.yml`:
+https://github.com/arialandete/Apunts-Stop-Motion
+
+## Instal·lació local
 
 ```bash
-pip install mkdocs mkdocs-material
+pip install -r requirements.txt
 mkdocs serve
 ```
 
-## Per generar el web
+## Publicació en GitHub Pages
 
-```bash
-mkdocs build
-```
+El projecte inclou un workflow en `.github/workflows/deploy.yml`. En GitHub cal activar:
 
-## Per publicar en GitHub
-
-1. Crear un repositori en GitHub, per exemple `apunts-stop-motion`.
-2. Pujar tots els fitxers d'aquest projecte.
-3. Entrar en `Settings > Pages`.
-4. En `Build and deployment`, seleccionar `GitHub Actions`.
-5. Esperar que acabe l'acció de publicació.
-
-Els enllaços que cal entregar al curs seran:
-
-- Enllaç a la web publicada amb GitHub Pages.
-- Enllaç al repositori amb les fonts i `mkdocs.yml`.
-- Captura de pantalla de la publicació en Aules.
+`Settings > Pages > Build and deployment > GitHub Actions`
